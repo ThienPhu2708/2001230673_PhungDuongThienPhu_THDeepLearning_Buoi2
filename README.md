@@ -80,14 +80,3 @@ Raw Data (23_HOMES.csv)
                   ▼
         7. Evaluate TEST SET — chỉ 1 lần duy nhất
 ```
-
----
-## 📁 Cấu trúc thư mục
-
-```
-├── data/
-│   └── 23_HOMES.csv
-├── notebook/
-│   └── homes_preprocessing_tensorflow.ipynb
-└── README.md
-```
